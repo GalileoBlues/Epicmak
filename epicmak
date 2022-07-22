@@ -1,0 +1,39 @@
+// made by GalileoBlues
+
+default partial
+xkb_symbols "basic" {
+    include "us(basic)"
+
+    name[Group1] = "Epicmak";
+
+    key <AD01> {[ e, E ]};
+    key <AD02> {[ p, P ]};
+    key <AD03> {[ i, I ]};
+    key <AD04> {[ c, C ]};
+    key <AD05> {[ m, M ]};
+    key <AD06> {[ d, D ]};
+    key <AD07> {[ w, W ]};
+    key <AD08> {[ n, N ]};
+    key <AD09> {[ b, B ]};
+    key <AD10> {[ o, O ]};
+    key <AC01> {[ period, greater ]};
+    key <AC02> {[ h, H ]};
+    key <AC03> {[ slash, question ]};
+    key <AC04> {[ f, F ]};
+    key <AC05> {[ x, X ]};
+    key <AC06> {[ g, G ]};
+    key <AC07> {[ apostrophe, quotedbl ]};
+    key <AC08> {[ comma, less ]};
+    key <AC09> {[ q, Q ]};
+    key <AC10> {[ z, Z ]};
+    key <AB01> {[ r, R ]};
+    key <AB02> {[ u, U ]};
+    key <AB03> {[ v, V ]};
+    key <AB04> {[ s, S ]};
+    key <AB05> {[ k, K ]};
+    key <AB06> {[ l, L ]};
+    key <AB07> {[ j, J ]};
+    key <AB08> {[ a, A ]};
+    key <AB09> {[ y, Y ]};
+    key <AB10> {[ t, T ]};
+};
