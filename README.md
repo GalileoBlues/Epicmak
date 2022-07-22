@@ -15,7 +15,7 @@ eachother either split between lesser used characters or split between the homer
 # Install:
 If demand permits i may provide instructions for other OS' but for now here are linux instructions:
 Place the "epicmak" C file in your ``/usr/share/X11/xkb/symbols`` directory 
-then after this to set Epicmak as your layout with ``setxkbmap epicmak``
+then set Epicmak as your layout with ``setxkbmap epicmak``
 
 multiple layouts and hotkeys: ``setxkbmap -layout "us, epicmak" -option "grp:ctrl_alt_k"``
 for more advanced customisation please refer to xkb documentation on xorg's website
