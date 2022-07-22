@@ -11,3 +11,10 @@ This is where Epicmak comes in, it's a layout made with the express purpose of m
 
 it does this by making most of the homerow less used characters and placing the most used characters apart from
 eachother either split between lesser used characters or split between the homerow with the intention of making rolls either awkward or slower in general. Epicmak also tries to account for finger dexterity puting most commonly used two character combinations in the corners to be used by the pinky fingers, Admittingly this isn't as bad if the user is someone with good pinky dexerity but this is to account for what i believe to be the average typer.
+
+Install:
+If demand permits i may provide instructions for other OS' but for now here are linux instructions:
+Place the C file in your ``/usr/share/X11/xkb/symbols`` directory 
+then after this to set Epicmak as your layout with ``setxkbmap epicmak`` in order to enable multiple
+layouts at once and set a hotkey to swap between them please refer to xorg documentation [here](https://www.x.org/releases/X11R7.6/doc/xorg-docs/input/XKB-Config.html#id2521360)
+an example: ``setxkbmap -layout "us, epicmak" -option "grp:ctrl_alt_k"``
