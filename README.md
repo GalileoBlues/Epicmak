@@ -7,4 +7,3 @@ layout we are all familar with.
 
 This is where Epicmak comes in, it's a layout made with the express purpose of making the top 200 words
 (and hopefully more) as slow and uncomfortable as possible.
-![epicmakill](https://user-images.githubusercontent.com/105921721/180518834-d3534b8f-42e7-4e93-9cd2-d3eda7e1c58c.png)
