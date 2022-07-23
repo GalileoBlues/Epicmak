@@ -7,8 +7,11 @@ layout we are all familar with.
 
 This is where Epicmak comes in, it's a layout made with the express purpose of making the top 200 words
 (and hopefully more) as slow and uncomfortable as possible.
-![epicmakill](https://user-images.githubusercontent.com/105921721/180519128-0c9b758e-dc7b-43e0-97b1-10e2bb5beef9.png)
-
+```
+e p i c m d w n b o
+ . h / f x g ' , q z
+r u v s k l j a y t
+```
 it does this by making most of the homerow less used characters and placing the most used characters apart from
 eachother either split between lesser used characters or split between the homerow with the intention of making rolls either awkward or slower in general. Epicmak also tries to account for finger dexterity puting most commonly used two character combinations in the corners to be used by the pinky fingers, Admittingly this isn't as bad if the user is someone with good pinky dexerity but this is to account for what i believe to be the average typer.
 
